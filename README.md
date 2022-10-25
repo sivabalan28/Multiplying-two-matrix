@@ -22,6 +22,9 @@ Print the product of two arrays.
 
 ## PROGRAM: 
 ```python
+#Program for multiplying two matrix
+#Developed by: Sivabalan S
+#Register number: 22004401
 import numpy as np
 x = int(input())
 l1 =[]
